@@ -3,5 +3,7 @@ thing
 New feature
 Another new feature
 And another
+Architecture change
+
 
 
